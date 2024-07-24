@@ -2,7 +2,7 @@
 
 This repository contains the code for the recruitment project for Cinkciarz ATS API.
 Project is a simple REST API that works like ATS system. 
-Project is not done, but event this part should provide enough informations about skills to the interviewers.
+Project is not done, but even this part should provide enough informations about skills to the interviewers.
 
 ## Getting Started
 
